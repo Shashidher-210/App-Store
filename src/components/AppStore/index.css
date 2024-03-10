@@ -1,0 +1,13 @@
+.app-container {
+  background: linear-gradient(to bottom, #fff1eb 0%, #ace0f9 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}

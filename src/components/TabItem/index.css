@@ -1,0 +1,10 @@
+.tab-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.tab-btn{
+    color: #7b8794;
+    font-size: 15px;
+}
